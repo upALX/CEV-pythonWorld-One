@@ -1,3 +1,3 @@
-<h1 align="center"> Curso em Vídeo | Phyton | Mundo 1 </h1>
+<h1 align="center"> Python | exercícios | Mundo 1 </h1>
 
 ---
