@@ -20,10 +20,18 @@
 - Método 'split()' - é feito em seus espaços, logo ele cria uma cadeia nova a cada espaço dentro da cadeia inicial. Ex: frase = 'curso em video' - com split(frase) - ele passa a armazenar frase em 3 listas ao ínves de uma e cada nova lista tem o seu número de referência (começa no 0).
 - Método 'join()' - junta elementos com base em alguma coisa. Ex: '-'.join(frase) == curso-em-video
 
+#Pós realização de exercícios:
+- Sempre devo fazer o desafio dividido em êtapas menores e testando cada êtapa porque se deixar para testar depois de pronto e tiver um erro, encontra-lo vai ser 10x mais complicado.
+- É IMPORTÂNTE ENTENDER QUE O LENGHT QUANDO UTILIZADO PARA REPRESENTAR UMA POSIÇÃO, IRÁ RETORNAR UM VALOR ACIMA DO ESPERADO, JÁ QUE ELE FAZ A BUSCA COM BASE EM ELEMENTOS - inicia em 1, não em 0 - NÃO NAS POSIÇÕES DOS ELEMENTOS. 
+- O lenght faz meio que essa ideia: "existe uma coisa aqui, existem duas coisas aqui...".
+- O find por exemplo, já faz o seguinte: "dentro dessa coisa que existe ai, tem a algo na posição 0, tem algo na posição 1, tem algo na posição 2..."
+- Para o lenght é necessário dizer que existe algo, por isso ele precisa retornar o 1 quando existe algo e faz a contagem a partir disso, afinal ele não procura coisas dentro de uma coisa, mas ele procura a existencia de algo, e a existencia de algo precisa ser maior que zero logicamente, não é mesmo?
+
 #Enunciados
 - Crie um programa que leia o nome completo de uma pessoa e mostre: todas as letras em maiúsculas, todas as letras em minúsculas, quantas letras tem ao todos (sem considerar os espaços) e quantas letras tem o primeiro nome.
 - Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados. Ex: 1234 - unidade: 4, dezena: 3, centena: 2, milhar: 1.
 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
-- Crie um prorama que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+- Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 - Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez, em que posição ela aparece a última vez.
 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+- Faça um programa que leia o nome completo de uma pessoas, mostrando em seguida o primeiro e o último nome separadamente.
