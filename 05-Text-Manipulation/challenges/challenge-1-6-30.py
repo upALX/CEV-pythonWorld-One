@@ -4,5 +4,5 @@ nameDivided = nameComplete.split()
 lenghtList = len(nameDivided)
 print('Seu nome completo é: {}'.format(nameComplete))
 print('Seu primeiro nome é: {}'.format(nameDivided[0]))
-print('Seu último nome é: {}'.format(nameDivided[len(nameDivided)-1])) #O lenght retorna a existencia, não a posição.
+print('Seu último nome é: {}'.format(nameDivided[len(nameDivided)-1])) #O lenght retorna a existência, não a posição.
 
