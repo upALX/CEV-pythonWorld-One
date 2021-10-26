@@ -4,7 +4,10 @@
 
 print('A velocidade máxima é de 80Km/h! Caso ultrapasse terá multa de R$7,00 por Km infringido!')
 currentSpeed = float(input('Olá, informe a sua velocidade atual: '))
-print(currentSpeed)
-#if currentSpeed > 80:
- #   trafficTicketValue = 0
-  # print()
+
+if currentSpeed > 80:
+    trafficTicketValue = (currentSpeed - 80) * 7
+    print('Você está à {} Km/h, {} Km/h acima do limite!'.format(currentSpeed, currentSpeed - 80))
+    print('Você deve pagar R$ {:.2f} de multa!'.format(trafficTicketValue))
+else:
+    print('Você está dentro do limite de velocidade, tenha um bom dia!')
