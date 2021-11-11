@@ -1,4 +1,4 @@
-##Aula 07 | Enunciados dos Challenges
+## Aula 07 | Enunciados dos desafios
 
 * 1 - Faça um programa que leia um número na tela e mostre na tela o seu sucessor e seu antecessor.
 * 2 - Crie um algoritmo que leia um número e mostre o seu dobro , triplo e raiz quadrada.
