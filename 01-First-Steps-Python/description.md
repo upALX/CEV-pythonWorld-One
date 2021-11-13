@@ -12,5 +12,5 @@
 
 1 - Crie um programa que escreva "Olá, mundo!" na tela.
 
-
+## Segundo exercício proposto (sem aula):
 2 -Crie um programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas.
