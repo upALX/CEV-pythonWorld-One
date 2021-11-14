@@ -31,4 +31,67 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 # :memo: Exercices list
 
+### 01-First-Steps-Python
+
+* 1 - Crie um Script Python que leia o nome de uma pessoa e mostre uma mensagem de boas vindas de acordo com o valor digitado.
+* 2 - Crie um script Python que leia o dia, mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
+* 3 - Crie um script Python que leia dois números e mostre a soma entre eles.
+
+### 02-Data-Processing-And-Accounts
+
+* 1 - Crie um programa que leia dois números e mostre a soma entre eles (utilizando os valores primitivos).
+* 1 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+### 03-Arithmetic-Operators
+* 1 - Faça um programa que leia um número na tela e mostre na tela o seu sucessor e seu antecessor.
+* 2 - Crie um algoritmo que leia um número e mostre o seu dobro , triplo e raiz quadrada.
+* 3 - Desenvolva um programa que leia as notas de um aluno e calcule a média
+* 4 - Escreva um programa que leia um valor em metros e o exiba em centimetros e milímetros.
+* 5 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+* 6 - Crie um programa que leia o valor informado e mostre quanto esse valor vale em doláres. Considerando 1 dolár: 3,27 reais.
+* 7 - Faça um programa que leia a largura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pinta-lá, sabendo que cada litro de tinta, pinta uma área de 2m2.
+* 8 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+* 9 - Faça um algoritmo que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento.
+* 10 - Escreva um programa que converta uma temperatura digitada em Celcius para Fahrenheit.
+* 11 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por Km rodado.
+
+### 04-Use-Modules
+
+* 1 - Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira. Ex: 4.32423 será 4
+* 2 - Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo , calcule e mostre o comprimento da hipotenusa.
+* 3 - Leia na tela o valor de um ângulo qualquer e mostre na tela o valor do seu SENO, COSCENO e TÂNGENTE.
+* 4 - Um professor quer sortear um de seus 4 alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dele e escrevendo o nome escolhido.
+* 5 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro e mostre a ordem sorteada.
+* 6 - Faça um programa que abra e reproduza o áudio de um arquivo em mp3.
+
+### 05-Text-Manipulation
+
+* 1 - Crie um programa que leia o nome completo de uma pessoa e mostre: todas as letras em maiúsculas, todas as letras em minúsculas, quantas letras tem ao todos (sem considerar os espaços) e quantas letras tem o primeiro nome.
+* 2 - Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados. Ex: 1234 - unidade: 4, dezena: 3, centena: 2, milhar: 1.
+* 3 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
+* 4 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+* 5 - Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez, em que posição ela aparece a última vez.
+* 6 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+* 7 - Faça um programa que leia o nome completo de uma pessoas, mostrando em seguida o primeiro e o último nome separadamente.
+
+
+### 06-Conditions-Part-01
+
+* 1 - Escreva um programa que faça o computador pensar num número entre 0 e 5, e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
+* 2 - Escreva um programa que vai ler a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$ 7,00 por Km acima da média. Calcule o mostre o valor da multa também.
+
+* 3 - Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
+
+* 4 - Desenvolva um programa que pergunte a distância de uma viagem por Km. Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200Km e R$ 0,45 para viagens mais longas.
+
+* 5 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto. 
+
+* 6 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+
+* 7 - Escreva um programa que pergunta qual o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$ 1.250,00, calcule um aumento de 10%. Salários inferiores ou iguais, aumneto de 15%.
+
+* 8 - Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.
+
+
 # :closed_book: License
