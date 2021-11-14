@@ -30,5 +30,5 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 
 # :memo: Exercices list
-# :bug: Bugs
+
 # :closed_book: License
