@@ -10,12 +10,12 @@
 
 * 3 - Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
 
-4 - Desenvolva um programa que pergunte a distância de uma viagem por Km. Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200Km e R$ 0,45 para viagens mais longas.
+* 4 - Desenvolva um programa que pergunte a distância de uma viagem por Km. Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200Km e R$ 0,45 para viagens mais longas.
 
-5 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto. 
+* 5 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto. 
 
-6 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+* 6 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
 
-7 - Escreva um programa que pergunta qual o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$ 1.250,00, calcule um aumento de 10%. Salários inferiores ou iguais, aumneto de 15%.
+* 7 - Escreva um programa que pergunta qual o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$ 1.250,00, calcule um aumento de 10%. Salários inferiores ou iguais, aumneto de 15%.
 
-8 - Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.
+* 8 - Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.
