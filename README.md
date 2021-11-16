@@ -95,3 +95,4 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 
 # :closed_book: License
+This project use the [MIT LICENSE](https://opensource.org/licenses/MIT).
