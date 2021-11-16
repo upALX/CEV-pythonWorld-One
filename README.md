@@ -35,7 +35,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### 01-First-Steps-Python
 
-* 1 - Crie um Script Python que leia o nome de uma pessoa e mostre uma mensagem de boas vindas de acordo com o valor digitado.
+* 1 - Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas vindas de acordo com o valor digitado.
 * 2 - Crie um script Python que leia o dia, mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 * 3 - Crie um script Python que leia dois números e mostre a soma entre eles.
 
@@ -55,12 +55,12 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 8 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 * 9 - Faça um algoritmo que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento.
 * 10 - Escreva um programa que converta uma temperatura digitada em Celcius para Fahrenheit.
-* 11 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por Km rodado.
+* 11 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por km rodado.
 
 ### 04-Use-Modules
 
 * 1 - Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira. Ex: 4.32423 será 4
-* 2 - Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo , calcule e mostre o comprimento da hipotenusa.
+* 2 - Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo, calcule e mostre o comprimento da hipotenusa.
 * 3 - Leia na tela o valor de um ângulo qualquer e mostre na tela o valor do seu SENO, COSCENO e TÂNGENTE.
 * 4 - Um professor quer sortear um de seus 4 alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dele e escrevendo o nome escolhido.
 * 5 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro e mostre a ordem sorteada.
@@ -81,11 +81,11 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 * 1 - Escreva um programa que faça o computador pensar num número entre 0 e 5, e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
-* 2 - Escreva um programa que vai ler a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$ 7,00 por Km acima da média. Calcule o mostre o valor da multa também.
+* 2 - Escreva um programa que vai ler a velocidade de um carro. Se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$ 7,00 por km acima da média. Calcule o mostre o valor da multa também.
 
 * 3 - Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
 
-* 4 - Desenvolva um programa que pergunte a distância de uma viagem por Km. Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200Km e R$ 0,45 para viagens mais longas.
+* 4 - Desenvolva um programa que pergunte a distância de uma viagem por km. Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200 km e R$ 0,45 para viagens mais longas.
 
 * 5 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto. 
 
