@@ -6,8 +6,6 @@
 
 <p>Este repo se dedica a solucionar todos os desafios do primeiro mundo de Python do canal <a href="http://youtube.com/cursoemvideo"> Curso em Vídeo no YouTube</a> . Aqui você encontra todos os desafios com seus enunciados completos. Este curso foi frequentado por mais de 1 milhão de pessoas e é possivelmente um dos maiores cursos abertos de python voltados para a comunidade no planeta.</p>
 
-
-
 ---
 
 <h2 align="center">Technologies and libs used </h2>
