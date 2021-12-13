@@ -94,6 +94,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 * 8 - Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.
 
+Did you find one or more errors in this project? No problem, open an issue or solve the problem and make a pull request. I´ll be very happy with your contribution :)
 
 # :closed_book: License
 This project use the [MIT LICENSE](https://opensource.org/licenses/MIT).
