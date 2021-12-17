@@ -99,7 +99,8 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 8 - Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.
 
 <h2 id="bugs"> :bug: Bugs </h2>
-Did you find one or more errors in this project? No problem, open an issue or solve the problem and make a pull request. I´ll be very happy with your contribution :)
+
+Did you find one or more errors in this project? No problem, open an [issue](https://github.com/upALX/CEV-pythonWorld-One/issues) or solve the problem and make a pull request. I´ll be very happy with your contribution :)
 
 <h2 id="license"> :closed_book: License </h2>
 
