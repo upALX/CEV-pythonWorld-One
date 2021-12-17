@@ -1,9 +1,9 @@
 <h1 align="center"> Curso em Vídeo | Phyton | Mundo 1</h1>
 
-**Overview**
+<h2> Overview </h2>
 
 **Português**
-<p>Este repo se dedica a solucionar todos os desafios do primeiro mundo de Python do canal <a href="http://youtube.com/cursoemvideo"> Curso em Vídeo no YouTube</a> . Aqui você encontra todos os desafios com seus enunciados completos. Este curso foi frequentado por mais de 1 milhão de pessoas e é possivelmente um dos maiores cursos abertos de python voltados para a comunidade no planeta.</p>
+<p>Este repo se dedica a solucionar todos os desafios do primeiro mundo de Python do canal <a href="http://youtube.com/cursoemvideo"> Curso em Vídeo no YouTube</a> . Aqui você encontra todos os desafios com seus enunciados completos. Lembrando que esse curso é gratuito e disponível em Português, também foi frequentado por mais de 1 milhão de pessoas e é possivelmente um dos maiores cursos e projetos abertos de python voltados para a comunidade dev no planeta.</p>
 
 **English**
 <p> This repo is dedicated to solving all challenges of the first world Python through the <a href="http://youtube.com/cursoemvideo"> Curso em Video channel on YouTube </a>. Here you can find all the challenges with your statements complete. This course has been attended by over 1 million people and is possibly one of the largest community-oriented python courses on the planet.</p>
