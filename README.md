@@ -62,6 +62,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### 04-Use-Modules
 
+
 * 1 - Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira. Ex: 4.32423 será 4
 * 2 - Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo, calcule e mostre o comprimento da hipotenusa.
 * 3 - Leia na tela o valor de um ângulo qualquer e mostre na tela o valor do seu SENO, COSCENO e TÂNGENTE.
