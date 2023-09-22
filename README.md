@@ -1,4 +1,4 @@
-<h1 align="center"> Curso em Vídeo | Phyton | Mundo 1</h1>
+<h1 align="center"> Curso em Vídeo | Python | Mundo 1</h1>
 
 <h2> Overview </h2>
 
@@ -37,7 +37,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 <h2 id="exercices"> :memo: Exercices list </h2>
 
-### 01-First-Steps-Python
+### [01-First-Steps-Python](https://github.com/upALX/CEV-pythonWorld-One/tree/master/01-First-Steps-Python)
 
 * 1 - Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas vindas de acordo com o valor digitado.
 * 2 - Crie um script Python que leia o dia, mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
