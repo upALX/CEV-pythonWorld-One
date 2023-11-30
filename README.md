@@ -10,7 +10,6 @@
 
 ---
 
-
 <h2 align="center">Technologies and libs used </h2>
 <p align="center">
   <a href="https://www.python.org/about/">
