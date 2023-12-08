@@ -69,7 +69,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 5 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro e mostre a ordem sorteada.
 * 6 - Faça um programa que abra e reproduza o áudio de um arquivo em mp3.
 
-### 05-Text-Manipulation
+### [05-Text-Manipulation](https://github.com/upALX/CV-Python-W01/tree/master/05-Text-Manipulation/challenges)
 
 * 1 - Crie um programa que leia o nome completo de uma pessoa e mostre: todas as letras em maiúsculas, todas as letras em minúsculas, quantas letras tem ao todos (sem considerar os espaços) e quantas letras tem o primeiro nome.
 * 2 - Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados. Ex: 1234 - unidade: 4, dezena: 3, centena: 2, milhar: 1.
