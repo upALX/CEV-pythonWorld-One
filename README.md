@@ -60,8 +60,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 10 - Escreva um programa que converta uma temperatura digitada em Celcius para Fahrenheit.
 * 11 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por km rodado.
 
-### 04-Use-Modules
-
+### [04-Use-Modules](https://github.com/upALX/CV-Python-W01/tree/master/04-Use-Modules/challenges)
 
 * 1 - Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira. Ex: 4.32423 será 4
 * 2 - Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo, calcule e mostre o comprimento da hipotenusa.
