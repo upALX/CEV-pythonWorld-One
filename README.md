@@ -42,12 +42,12 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 2 - Crie um script Python que leia o dia, mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 * 3 - Crie um script Python que leia dois números e mostre a soma entre eles.
 
-### 02-Data-Processing-And-Accounts
+### [02-Data-Processing-And-Accounts](https://github.com/upALX/CV-Python-W01/tree/master/02-Data-Processing-And-Accounts/challenges)
 
 * 1 - Crie um programa que leia dois números e mostre a soma entre eles (utilizando os valores primitivos).
 * 1 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-### 03-Arithmetic-Operators
+### [03-Arithmetic-Operators](https://github.com/upALX/CV-Python-W01/tree/master/03-Arithmetic-Operators/challenges)
 * 1 - Faça um programa que leia um número na tela e mostre na tela o seu sucessor e seu antecessor.
 * 2 - Crie um algoritmo que leia um número e mostre o seu dobro , triplo e raiz quadrada.
 * 3 - Desenvolva um programa que leia as notas de um aluno e calcule a média
