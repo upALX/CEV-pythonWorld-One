@@ -79,7 +79,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 6 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 * 7 - Faça um programa que leia o nome completo de uma pessoas, mostrando em seguida o primeiro e o último nome separadamente.
 
-### 06-Conditions-Part-01
+### [06-Conditions-Part-01](https://github.com/upALX/CV-Python-W01/tree/master/06-Conditions-part-01/challenges)
 
 * 1 - Escreva um programa que faça o computador pensar num número entre 0 e 5, e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
