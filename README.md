@@ -82,7 +82,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 3 - [Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-27.py)
 * 4 - [Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-28.py)
 * 5 -[ Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A"](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-29.py) em que posição ela aparece a primeira vez, em que posição ela aparece a última vez.
-* 6 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+* 6 - [Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-30.py)
 * 7 - Faça um programa que leia o nome completo de uma pessoas, mostrando em seguida o primeiro e o último nome separadamente.
 
 ### [06-Conditions-Part-01](https://github.com/upALX/CV-Python-W01/tree/master/06-Conditions-part-01/challenges)
