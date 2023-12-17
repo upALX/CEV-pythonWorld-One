@@ -48,7 +48,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 2 - [Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.](https://github.com/upALX/CV-Python-W01/blob/master/02-Data-Processing-And-Accounts/challenges/challenge-1-3-7.py)
 
 ### [03-Arithmetic-Operators](https://github.com/upALX/CV-Python-W01/tree/master/03-Arithmetic-Operators/challenges)
-* 1 - Faça um programa que leia um número na tela e mostre na tela o seu sucessor e seu antecessor.
+* 1 - [Faça um programa que leia um número na tela e mostre na tela o seu sucessor e seu antecessor.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-8.py)
 * 2 - Crie um algoritmo que leia um número e mostre o seu dobro , triplo e raiz quadrada.
 * 3 - [Desenvolva um programa que leia as notas de um aluno e calcule a média](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-10.py)
 * 4 - [Escreva um programa que leia um valor em metros e o exiba em centimetros e milímetros.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-11.py)
