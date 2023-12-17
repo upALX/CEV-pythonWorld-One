@@ -78,7 +78,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
   - todas as letras em minúsculas,
   - quantas letras tem ao todos (sem considerar os espaços)
   - quantas letras tem o primeiro nome.
-* 2 - Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados. Ex: 1234 - unidade: 4, dezena: 3, centena: 2, milhar: 1.
+* 2 - [Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-26.py) Ex: 1234 - unidade: 4, dezena: 3, centena: 2, milhar: 1.
 * 3 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
 * 4 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 * 5 - Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez, em que posição ela aparece a última vez.
