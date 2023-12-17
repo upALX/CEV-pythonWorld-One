@@ -38,13 +38,13 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### [01-First-Steps-Python](https://github.com/upALX/CEV-pythonWorld-One/tree/master/01-First-Steps-Python)
 
-* 1 - Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas vindas de acordo com o valor digitado.
+* 1 - Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas vindas de acordo com o valor digitado.https://github.com/upALX/CV-Python-W01/blob/master/02-Data-Processing-And-Accounts/challenges/challenge-1-3-6.py
 * 2 - Crie um script Python que leia o dia, mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 * 3 - Crie um script Python que leia dois números e mostre a soma entre eles.
 
 ### [02-Data-Processing-And-Accounts](https://github.com/upALX/CV-Python-W01/tree/master/02-Data-Processing-And-Accounts/challenges)
 
-* 1 - Crie um programa que leia dois números e mostre a soma entre eles (utilizando os valores primitivos).
+* 1 - [Crie um programa que leia dois números e mostre a soma entre eles (utilizando os valores primitivos).](https://github.com/upALX/CV-Python-W01/blob/master/02-Data-Processing-And-Accounts/challenges/challenge-1-3-6.py)
 * 1 - Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
 ### [03-Arithmetic-Operators](https://github.com/upALX/CV-Python-W01/tree/master/03-Arithmetic-Operators/challenges)
