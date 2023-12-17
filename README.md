@@ -57,7 +57,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 7 - [Faça um programa que leia a largura de uma parede em metros](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-14.py),
   - calcule a sua área e a quantidade de tinta necessária para pinta-lá,
   - sabendo que cada litro de tinta, pinta uma área de 2m2.
-* 8 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+* 8 - [Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-15.py)
 * 9 - Faça um algoritmo que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento.
 * 10 - Escreva um programa que converta uma temperatura digitada em Celcius para Fahrenheit.
 * 11 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por km rodado.
