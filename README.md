@@ -80,7 +80,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
   - quantas letras tem o primeiro nome.
 * 2 - [Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-26.py) Ex: 1234 - unidade: 4, dezena: 3, centena: 2, milhar: 1.
 * 3 - [Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-27.py)
-* 4 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+* 4 - [Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-28.py)
 * 5 - Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez, em que posição ela aparece a última vez.
 * 6 - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 * 7 - Faça um programa que leia o nome completo de uma pessoas, mostrando em seguida o primeiro e o último nome separadamente.
