@@ -73,7 +73,11 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### [05-Text-Manipulation](https://github.com/upALX/CV-Python-W01/tree/master/05-Text-Manipulation/challenges)
 
-* 1 - Crie um programa que leia o nome completo de uma pessoa e mostre: todas as letras em maiúsculas, todas as letras em minúsculas, quantas letras tem ao todos (sem considerar os espaços) e quantas letras tem o primeiro nome.
+* 1 - [Crie um programa que leia o nome completo de uma pessoa e mostre:]([https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/chalenge-1-6-25.py))
+  - todas as letras em maiúsculas,
+  - todas as letras em minúsculas,
+  - quantas letras tem ao todos (sem considerar os espaços)
+  - quantas letras tem o primeiro nome.
 * 2 - Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados. Ex: 1234 - unidade: 4, dezena: 3, centena: 2, milhar: 1.
 * 3 - Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".
 * 4 - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
