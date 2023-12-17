@@ -53,7 +53,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 3 - [Desenvolva um programa que leia as notas de um aluno e calcule a média](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-10.py)
 * 4 - [Escreva um programa que leia um valor em metros e o exiba em centimetros e milímetros.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-11.py)
 * 5 - [Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-12.py)
-* 6 - Crie um programa que leia o valor informado e mostre quanto esse valor vale em doláres. Considerando 1 dolár: 3,27 reais.
+* 6 - [Crie um programa que leia o valor informado e mostre quanto esse valor vale em doláres.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-13.py) Considerando 1 dolár: 3,27 reais.
 * 7 - Faça um programa que leia a largura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pinta-lá, sabendo que cada litro de tinta, pinta uma área de 2m2.
 * 8 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 * 9 - Faça um algoritmo que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento.
