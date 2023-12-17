@@ -50,7 +50,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 ### [03-Arithmetic-Operators](https://github.com/upALX/CV-Python-W01/tree/master/03-Arithmetic-Operators/challenges)
 * 1 - Faça um programa que leia um número na tela e mostre na tela o seu sucessor e seu antecessor.
 * 2 - Crie um algoritmo que leia um número e mostre o seu dobro , triplo e raiz quadrada.
-* 3 - Desenvolva um programa que leia as notas de um aluno e calcule a média
+* 3 - [Desenvolva um programa que leia as notas de um aluno e calcule a média](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-10.py)
 * 4 - Escreva um programa que leia um valor em metros e o exiba em centimetros e milímetros.
 * 5 - Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 * 6 - Crie um programa que leia o valor informado e mostre quanto esse valor vale em doláres. Considerando 1 dolár: 3,27 reais.
