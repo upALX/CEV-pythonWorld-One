@@ -60,7 +60,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 8 - [Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-15.py)
 * 9 - [Faça um algoritmo que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-16.py).
 * 10 - [Escreva um programa que converta uma temperatura digitada em Celcius para Fahrenheit.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-17.py)
-* 11 - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por km rodado.
+* 11 - [Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por km rodado.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-18.py)
 
 ### [04-Use-Modules](https://github.com/upALX/CV-Python-W01/tree/master/04-Use-Modules/challenges)
 
