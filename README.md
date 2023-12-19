@@ -113,28 +113,28 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### [06-Conditions-Part-01](https://github.com/upALX/CV-Python-W01/tree/master/06-Conditions-part-01/challenges)
 
-* 1 - [Escreva um programa que faça o computador pensar num número entre 0 e 5, e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-24.py)
+1 - [Escreva um programa que faça o computador pensar num número entre 0 e 5, e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-24.py)
   - O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
-* 2 - [Escreva um programa que vai ler a velocidade de um carro.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-32.py)
+2 - [Escreva um programa que vai ler a velocidade de um carro.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-32.py)
   - Se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado.
   - A multa vai custar R$ 7,00 por km acima da média.
   - Calcule o mostre o valor da multa também.
 
-* 3 - [Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-33.py)
+3 - [Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-33.py)
 
-* 4 - [Desenvolva um programa que pergunte a distância de uma viagem por km.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-34.py)
+4 - [Desenvolva um programa que pergunte a distância de uma viagem por km.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-34.py)
 - Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200 km e R$ 0,45 para viagens mais longas.
 
-* 5 - [Faça um programa que leia um ano qualquer e mostre se ele é bissexto.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-35.py) 
+5 - [Faça um programa que leia um ano qualquer e mostre se ele é bissexto.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-35.py) 
 
-* 6 - [Faça um programa que leia três números e mostre qual é o maior e qual é o menor.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-36.py)
+6 - [Faça um programa que leia três números e mostre qual é o maior e qual é o menor.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-36.py)
 
-* 7 - [Escreva um programa que pergunta qual o salário de um funcionário e calcule o valor do seu aumento.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-37.py)
+7 - [Escreva um programa que pergunta qual o salário de um funcionário e calcule o valor do seu aumento.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-37.py)
   - Para salários superiores a R$ 1.250,00, calcule um aumento de 10%.
   - Salários inferiores ou iguais, aumneto de 15%.
 
-* 8 - [Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-38.py)
+8 - [Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-38.py)
 
 <h2 id="bugs"> :bug: Bugs </h2>
 
