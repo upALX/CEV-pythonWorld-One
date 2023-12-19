@@ -65,7 +65,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 ### [04-Use-Modules](https://github.com/upALX/CV-Python-W01/tree/master/04-Use-Modules/challenges)
 
 * 1 - [Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py) Ex: 4.32423 será 4
-* 2 - Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo, calcule e mostre o comprimento da hipotenusa.
+* 2 - [Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo, calcule e mostre o comprimento da hipotenusa.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-20.py)
 * 3 - Leia na tela o valor de um ângulo qualquer e mostre na tela o valor do seu SENO, COSCENO e TÂNGENTE.
 * 4 - Um professor quer sortear um de seus 4 alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dele e escrevendo o nome escolhido.
 * 5 - O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro e mostre a ordem sorteada.
