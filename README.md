@@ -42,12 +42,13 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 2 - Crie um script Python que leia o dia, mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 
-* 3 - Crie um script Python que leia dois números e mostre a soma entre eles.
+3 - Crie um script Python que leia dois números e mostre a soma entre eles.
 
 ### [02-Data-Processing-And-Accounts](https://github.com/upALX/CV-Python-W01/tree/master/02-Data-Processing-And-Accounts/challenges)
 
-* 1 - [Crie um programa que leia dois números e mostre a soma entre eles (utilizando os valores primitivos).](https://github.com/upALX/CV-Python-W01/blob/master/02-Data-Processing-And-Accounts/challenges/challenge-1-3-6.py)
-* 2 - [Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.](https://github.com/upALX/CV-Python-W01/blob/master/02-Data-Processing-And-Accounts/challenges/challenge-1-3-7.py)
+1 - [Crie um programa que leia dois números e mostre a soma entre eles (utilizando os valores primitivos).](https://github.com/upALX/CV-Python-W01/blob/master/02-Data-Processing-And-Accounts/challenges/challenge-1-3-6.py)
+
+2 - [Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.](https://github.com/upALX/CV-Python-W01/blob/master/02-Data-Processing-And-Accounts/challenges/challenge-1-3-7.py)
 
 ### [03-Arithmetic-Operators](https://github.com/upALX/CV-Python-W01/tree/master/03-Arithmetic-Operators/challenges)
 
@@ -61,7 +62,8 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 5 - [Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-12.py)
   
-6 - [Crie um programa que leia o valor informado e mostre quanto esse valor vale em doláres.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-13.py) Considerando 1 dolár: 3,27 reais.
+6 - [Crie um programa que leia o valor informado e mostre quanto esse valor vale em doláres.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-13.py) 
+  - Considerando 1 dolár: 3,27 reais.
 
 7 - [Faça um programa que leia a largura de uma parede em metros](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-14.py),
   - calcule a sua área e a quantidade de tinta necessária para pinta-lá,
@@ -77,7 +79,8 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### [04-Use-Modules](https://github.com/upALX/CV-Python-W01/tree/master/04-Use-Modules/challenges)
 
-1 - [Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py) Ex: 4.32423 será 4
+1 - [Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py)
+  - Ex: 4.32423 será 4
   
 2 - [Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo, calcule e mostre o comprimento da hipotenusa.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-20.py)
   
@@ -105,7 +108,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 4 - [Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-28.py)
 
-5 -[ Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A"](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-29.py)
+5 - [Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A"](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-29.py)
   - em que posição ela aparece a primeira vez
   - em que posição ela aparece a última vez.
 
