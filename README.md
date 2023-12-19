@@ -111,7 +111,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 - Para salários superiores a R$ 1.250,00, calcule um aumento de 10%.
 - Salários inferiores ou iguais, aumneto de 15%.
 
-* 8 - Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.
+* 8 - [Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-38.py)
 
 <h2 id="bugs"> :bug: Bugs </h2>
 
