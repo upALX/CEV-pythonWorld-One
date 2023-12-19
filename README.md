@@ -93,7 +93,10 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 1 - [Escreva um programa que faça o computador pensar num número entre 0 e 5, e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-24.py)
 - O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
-* 2 - Escreva um programa que vai ler a velocidade de um carro. Se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$ 7,00 por km acima da média. Calcule o mostre o valor da multa também.
+* 2 - [Escreva um programa que vai ler a velocidade de um carro.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-32.py)
+  - Se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado.
+  - A multa vai custar R$ 7,00 por km acima da média.
+  - Calcule o mostre o valor da multa também.
 
 * 3 - Crie um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar.
 
