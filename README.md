@@ -69,7 +69,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 3 - [Leia na tela o valor de um ângulo qualquer e mostre na tela o valor do seu SENO, COSCENO e TÂNGENTE.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-21.py)
 * 4 - [Um professor quer sortear um de seus 4 alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dele e escrevendo o nome escolhido.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-22.py)
 * 5 - [O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro e mostre a ordem sorteada.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-23.py)
-* 6 - Faça um programa que abra e reproduza o áudio de um arquivo em mp3.
+* 6 - [Faça um programa que abra e reproduza o áudio de um arquivo em mp3.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-24.py)
 
 ### [05-Text-Manipulation](https://github.com/upALX/CV-Python-W01/tree/master/05-Text-Manipulation/challenges)
 
