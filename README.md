@@ -105,7 +105,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 * 5 - [Faça um programa que leia um ano qualquer e mostre se ele é bissexto.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-35.py) 
 
-* 6 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+* 6 - [Faça um programa que leia três números e mostre qual é o maior e qual é o menor.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-36.py)
 
 * 7 - Escreva um programa que pergunta qual o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$ 1.250,00, calcule um aumento de 10%. Salários inferiores ou iguais, aumneto de 15%.
 
