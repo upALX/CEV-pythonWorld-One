@@ -48,50 +48,71 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 2 - [Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.](https://github.com/upALX/CV-Python-W01/blob/master/02-Data-Processing-And-Accounts/challenges/challenge-1-3-7.py)
 
 ### [03-Arithmetic-Operators](https://github.com/upALX/CV-Python-W01/tree/master/03-Arithmetic-Operators/challenges)
-* 1 - [Faça um programa que leia um número na tela e mostre na tela o seu sucessor e seu antecessor.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-8.py)
-* 2 - [Crie um algoritmo que leia um número e mostre o seu dobro , triplo e raiz quadrada.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-9.py)
-* 3 - [Desenvolva um programa que leia as notas de um aluno e calcule a média](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-10.py)
-* 4 - [Escreva um programa que leia um valor em metros e o exiba em centimetros e milímetros.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-11.py)
-* 5 - [Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-12.py)
-* 6 - [Crie um programa que leia o valor informado e mostre quanto esse valor vale em doláres.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-13.py) Considerando 1 dolár: 3,27 reais.
-* 7 - [Faça um programa que leia a largura de uma parede em metros](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-14.py),
+
+1 - [Faça um programa que leia um número na tela e mostre na tela o seu sucessor e seu antecessor.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-8.py)
+
+2 - [Crie um algoritmo que leia um número e mostre o seu dobro , triplo e raiz quadrada.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-9.py)
+
+3 - [Desenvolva um programa que leia as notas de um aluno e calcule a média](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-10.py)
+  
+4 - [Escreva um programa que leia um valor em metros e o exiba em centimetros e milímetros.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-11.py)
+
+5 - [Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-12.py)
+  
+6 - [Crie um programa que leia o valor informado e mostre quanto esse valor vale em doláres.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-13.py) Considerando 1 dolár: 3,27 reais.
+
+7 - [Faça um programa que leia a largura de uma parede em metros](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-14.py),
   - calcule a sua área e a quantidade de tinta necessária para pinta-lá,
   - sabendo que cada litro de tinta, pinta uma área de 2m2.
-* 8 - [Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-15.py)
-* 9 - [Faça um algoritmo que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-16.py).
-* 10 - [Escreva um programa que converta uma temperatura digitada em Celcius para Fahrenheit.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-17.py)
-* 11 - [Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por km rodado.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-18.py)
+  
+8 - [Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-15.py)
+
+9 - [Faça um algoritmo que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-16.py).
+
+10 - [Escreva um programa que converta uma temperatura digitada em Celcius para Fahrenheit.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-17.py)
+  
+11 - [Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa 60 reais por dia, e 0,15 centavos por km rodado.](https://github.com/upALX/CV-Python-W01/blob/master/03-Arithmetic-Operators/challenges/challenge-1-4-18.py)
 
 ### [04-Use-Modules](https://github.com/upALX/CV-Python-W01/tree/master/04-Use-Modules/challenges)
 
-* 1 - [Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py) Ex: 4.32423 será 4
-* 2 - [Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo, calcule e mostre o comprimento da hipotenusa.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-20.py)
-* 3 - [Leia na tela o valor de um ângulo qualquer e mostre na tela o valor do seu SENO, COSCENO e TÂNGENTE.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-21.py)
-* 4 - [Um professor quer sortear um de seus 4 alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dele e escrevendo o nome escolhido.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-22.py)
-* 5 - [O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro e mostre a ordem sorteada.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-23.py)
-* 6 - [Faça um programa que abra e reproduza o áudio de um arquivo em mp3.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-24.py)
+1 - [Crie um programa que lê um número do tipo real e mostre na tela a sua porção inteira.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py) Ex: 4.32423 será 4
+  
+2 - [Faça um programa que leia o comprimento do cateto oposto adjacentede um triângulo, calcule e mostre o comprimento da hipotenusa.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-20.py)
+  
+3 - [Leia na tela o valor de um ângulo qualquer e mostre na tela o valor do seu SENO, COSCENO e TÂNGENTE.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-21.py)
+
+4 - [Um professor quer sortear um de seus 4 alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dele e escrevendo o nome escolhido.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-22.py)
+
+5 - [O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro e mostre a ordem sorteada.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-23.py)
+  
+6 - [Faça um programa que abra e reproduza o áudio de um arquivo em mp3.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-24.py)
 
 ### [05-Text-Manipulation](https://github.com/upALX/CV-Python-W01/tree/master/05-Text-Manipulation/challenges)
 
-* 1 - [Crie um programa que leia o nome completo de uma pessoa e mostre:]([https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/chalenge-1-6-25.py))
+1 - [Crie um programa que leia o nome completo de uma pessoa e mostre:]([https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/chalenge-1-6-25.py))
   - todas as letras em maiúsculas,
   - todas as letras em minúsculas,
   - quantas letras tem ao todos (sem considerar os espaços)
   - quantas letras tem o primeiro nome.
-* 2 - [Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-26.py)
+    
+2 - [Faça um programa que leia um número de 0 a 9.999 e mostre na tela cada um dos digitos separados.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-26.py)
   - Ex: 1234
   - unidade: 4, dezena: 3, centena: 2, milhar: 1.
-* 3 - [Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-27.py)
-* 4 - [Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-28.py)
-* 5 -[ Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A"](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-29.py)
+
+3 - [Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome "SANTO".](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-27.py)
+
+4 - [Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-28.py)
+
+5 -[ Faça um programa que leia uma frase e mostre: quantas vezes aparece a letra "A"](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-29.py)
   - em que posição ela aparece a primeira vez
   - em que posição ela aparece a última vez.
-* 6 - [Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-30.py)
+
+6 - [Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/challenge-1-6-30.py)
 
 ### [06-Conditions-Part-01](https://github.com/upALX/CV-Python-W01/tree/master/06-Conditions-part-01/challenges)
 
 * 1 - [Escreva um programa que faça o computador pensar num número entre 0 e 5, e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador.](https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenges-1-5-24.py)
-- O programa deverá escrever na tela se o usuário venceu ou perdeu.
+  - O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
 * 2 - [Escreva um programa que vai ler a velocidade de um carro.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-32.py)
   - Se ele ultrapassar 80 km/h, mostre uma mensagem dizendo que ele foi multado.
@@ -108,8 +129,8 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 6 - [Faça um programa que leia três números e mostre qual é o maior e qual é o menor.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-36.py)
 
 * 7 - [Escreva um programa que pergunta qual o salário de um funcionário e calcule o valor do seu aumento.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-37.py)
-- Para salários superiores a R$ 1.250,00, calcule um aumento de 10%.
-- Salários inferiores ou iguais, aumneto de 15%.
+  - Para salários superiores a R$ 1.250,00, calcule um aumento de 10%.
+  - Salários inferiores ou iguais, aumneto de 15%.
 
 * 8 - [Desenvolva um programa que leia o comprimento de 3 retas e diga ao usuário se podem ou não formar um triângulo.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-38.py)
 
