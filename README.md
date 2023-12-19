@@ -103,7 +103,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 * 4 - [Desenvolva um programa que pergunte a distância de uma viagem por km.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-34.py)
 - Calcule o preço da passagem, cobrando R$ 0,50 por Km para viagens de até 200 km e R$ 0,45 para viagens mais longas.
 
-* 5 - Faça um programa que leia um ano qualquer e mostre se ele é bissexto. 
+* 5 - [Faça um programa que leia um ano qualquer e mostre se ele é bissexto.](https://github.com/upALX/CV-Python-W01/blob/master/06-Conditions-part-01/challenges/challenge-1-7-35.py) 
 
 * 6 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
 
