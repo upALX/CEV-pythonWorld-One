@@ -88,7 +88,7 @@ Esse repo contém os desafios, enunciados dos desafios e comentários sobre as a
 
 ### [05-Text-Manipulation](https://github.com/upALX/CV-Python-W01/tree/master/05-Text-Manipulation/challenges)
 
-1 - [Crie um programa que leia o nome completo de uma pessoa e mostre:]([https://github.com/upALX/CV-Python-W01/blob/master/04-Use-Modules/challenges/challenge-1-5-19.py](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/chalenge-1-6-25.py))
+1 - [Crie um programa que leia o nome completo de uma pessoa e mostre:](https://github.com/upALX/CV-Python-W01/blob/master/05-Text-Manipulation/challenges/chalenge-1-6-25.py)
   - todas as letras em maiúsculas,
   - todas as letras em minúsculas,
   - quantas letras tem ao todos (sem considerar os espaços)
